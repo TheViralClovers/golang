@@ -1,4 +1,4 @@
-package maps_and_slices
+package main
 
 import "log"
 
